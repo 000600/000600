@@ -29,7 +29,7 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
   * *War: How Conflict Shaped Us* by **Margaret MacMillan**
   * *Born a Crime: Stories from a South African Childhood* by **Trevor Noah*
   * *Animal Farm* and *1984* by **George Orwell**
-  * *Me Against My Brother* by *Scott Peterson*
+  * *Me Against My Brother* by **Scott Peterson**
   * *Surely You're Joking, Mr. Feynman* by **Richard Feynman**
   * Many more!
 
