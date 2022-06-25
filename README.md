@@ -12,6 +12,7 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
   * Rust (as always)
   * Tensorflow
   * Pytorch
+  * And much more!
 - 💬 Ask me about:
   * Finance, space, physics, economics, philosophy, literature (books, comics, journals, everything), current events, etc.
   * Whatever!
