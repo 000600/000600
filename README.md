@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and (obviously) programming. I am also very interested in math, physics, astronomy, finance, business, economics, and science as a whole (my team won fourth place in our category at Regeneron ISEF 2022). I also really enjoy extracurricualrs such as [debate](https://xkcd.com/1432/), soccer, basketball, and pretty much all sports! I am entirely self taught, with a particular interest in open source software, artificial intelligence, and machine learning.
+I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and (obviously) programming. I am also very interested in math, physics, astronomy, finance, business, economics, and science as a whole (my team won fourth place in our category at Regeneron ISEF 2022). I also really enjoy extracurricualrs such as [debate](https://xkcd.com/1432/), soccer, basketball, and pretty much all sports! I am entirely self taught, with a particular interest in open source software, artificial intelligence, and [machine learning](https://xkcd.com/2173/).
 
 ## About Me
 - 🔭 I’m currently working on:
@@ -15,7 +15,7 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
   * Pytorch
   * And much more!
 - 💬 Ask me about:
-  * [Finance](https://xkcd.com/1570/), [space](https://xkcd.com/2599/), [physics](https://xkcd.com/793/), economics, [cryptocurrency](https://www.youtube.com/watch?v=cbI31x3Fp%200), philosophy, literature (books, comics, journals, everything), current events, etc.
+  * [Finance](https://xkcd.com/1570/), [space](https://xkcd.com/2599/), [physics](https://xkcd.com/793/), [economics](https://xkcd.com/808/), [cryptocurrency](https://www.youtube.com/watch?v=cbI31x3Fp%200), [philosophy](https://xkcd.com/220/), [literature](https://xkcd.com/971/) (books, comics, journals, everything), [current events](https://xkcd.com/2174/), etc.
   * Whatever!
 - 📫 How to reach me: aidengandhi07@gmail.com
 - 😄 Pronouns: He/Him/His
