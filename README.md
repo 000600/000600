@@ -19,8 +19,9 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
   * Whatever!
 - 📫 How to reach me: aidengandhi07@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact:
+- ⚡ Fun facts:
   * I really enjoy skiing
+  * Bugs Bunny is my favorite cartoon character (hence my profile photo)
 - 📚 My favorite books (in no particular order) include:
   * *Liar's Poker*, *Flash Boys*, and *The Big Short* by **Michael Lewis**
   * *Astrophysics for People in a Hurry* and *Death by Black Hole* by **Neil DeGrasse Tyson**
