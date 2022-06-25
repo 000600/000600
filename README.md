@@ -48,7 +48,7 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
 - [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=black&color=EBFF11&logo=windows&logoColor=EBFF11)](https://xkcd.com/612/) 
 - [![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-00876D?style=for-the-badge&labelColor=black&color=FF5E00&logo=tensorflow&logoColor=FF5E00)](https://xkcd.com/1838/)
 - [![Pytorch Badge](https://img.shields.io/badge/Pytorch-898D08?style=for-the-badge&labelColor=black&color=D70000&logo=pytorch&logoColor=D70000)](https://xkcd.com/2173/)
-- [![Gym Badge](https://img.shields.io/badge/OpenAIGym-204T50?style=for-the-badge&labelColor=black&color=11AED1&logo=openaigym&logoColor=11AED1)](https://xkcd.com/1002/)
+- [![Gym Badge](https://img.shields.io/badge/Open_AI_Gym-204T50?style=for-the-badge&labelColor=black&color=11AED1&logo=openaigym&logoColor=11AED1)](https://xkcd.com/1002/)
 
 <!---
 ## Github Statistics
