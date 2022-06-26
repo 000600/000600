@@ -51,6 +51,7 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
 - [![Numpy Badge](https://img.shields.io/badge/Numpy-716JE3?style=for-the-badge&labelColor=black&color=16D2C3&logo=numpy&logoColor=16D2C3)](https://xkcd.com/1131/)
 - [![Pytorch Badge](https://img.shields.io/badge/Pytorch-898D08?style=for-the-badge&labelColor=black&color=D70000&logo=pytorch&logoColor=D70000)](https://xkcd.com/2173/)
 - [![Gym Badge](https://img.shields.io/badge/OpenAI_Gym-204T50?style=for-the-badge&labelColor=black&color=11AED1&logo=openaigym&logoColor=11AED1)](https://xkcd.com/1002/)
+- [![Scikit-Learn Badge](https://img.shields.io/badge/Scikit--Learn-44H710?style=for-the-badge&labelColor=black&color=FFAA62&logo=scikit-learn&logoColor=FFAA62)](https://xkcd.com/2265/)
 
 <!---
 ## Github Statistics
