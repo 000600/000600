@@ -39,7 +39,7 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
 
 ## My Favorite/Most Used Technologies
 - [![Rust Badge](https://img.shields.io/badge/rust-%23DEA584.svg?style=for-the-badge&labelColor=black&color=BF634F&logo=rust&logoColor=BF634F)](https://www.youtube.com/watch?v=cE0wfjsybIQ) 
-- [![Python Badge](https://img.shields.io/badge/python-2314354C.svg?style=for-the-badge&labelColor=black&color=324FFF&logo=python&logoColor=324FFF)](https://xkcd.com/353/) 
+- [![Python Badge](https://img.shields.io/badge/python-2314354C.svg?style=for-the-badge&labelColor=black&color=0041A0&logo=python&logoColor=0041A0)](https://xkcd.com/1987/) 
 - [![C++ Badge](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&labelColor=black&color=7B02CE&logo=c%2B%2B&logoColor=7B02CE)](https://xkcd.com/303/)
 - [![VS_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&labelColor=black&color=188EF4&logo=visual-studio-code&logoColor=188EF4)](https://xkcd.com/1513/)
 - [![Vim Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&labelColor=black&color=1F9100&logo=vim&logoColor=1F9100)](https://xkcd.com/378/) 
@@ -47,6 +47,8 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
 - [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&color=FF00B7&logo=linux&logoColor=FF00B7)](https://xkcd.com/149/) 
 - [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=black&color=EBFF11&logo=windows&logoColor=EBFF11)](https://xkcd.com/612/) 
 - [![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-00876D?style=for-the-badge&labelColor=black&color=FF5E00&logo=tensorflow&logoColor=FF5E00)](https://xkcd.com/1838/)
+- [![Pandas Badge](https://img.shields.io/badge/Pandas-409T25?style=for-the-badge&labelColor=black&color=4ACE23&logo=pandas&logoColor=4ACE23)](https://xkcd.com/2494/)
+- [![Numpy Badge](https://img.shields.io/badge/Numpy-716JE3?style=for-the-badge&labelColor=black&color=16D2C3&logo=numpy&logoColor=16D2C3)](https://xkcd.com/1131/)
 - [![Pytorch Badge](https://img.shields.io/badge/Pytorch-898D08?style=for-the-badge&labelColor=black&color=D70000&logo=pytorch&logoColor=D70000)](https://xkcd.com/2173/)
 - [![Gym Badge](https://img.shields.io/badge/OpenAI_Gym-204T50?style=for-the-badge&labelColor=black&color=11AED1&logo=openaigym&logoColor=11AED1)](https://xkcd.com/1002/)
 
