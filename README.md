@@ -15,7 +15,7 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
   * Pytorch
   * And much more!
 - 💬 Ask me about:
-  * [Finance](https://xkcd.com/1570/), [space](https://xkcd.com/2599/), [physics](https://xkcd.com/793/), [economics](https://xkcd.com/808/), [cryptocurrency](https://www.youtube.com/watch?v=cbI31x3Fp%200), [philosophy](https://xkcd.com/220/), [literature](https://xkcd.com/971/) (books, comics, journals, everything), [current events](https://xkcd.com/2174/), etc.
+  * [Finance](https://xkcd.com/1570/), [space](https://xkcd.com/2599/), [physics](https://xkcd.com/793/), [economics](https://xkcd.com/808/), [cryptocurrency](https://www.youtube.com/watch?v=cbI31x3FpS0), [philosophy](https://xkcd.com/220/), [literature](https://xkcd.com/971/) (books, comics, journals, everything), [current events](https://xkcd.com/2174/), etc.
   * Whatever!
 - 📫 How to reach me: aidengandhi07@gmail.com
 - 😄 Pronouns: He/Him/His
