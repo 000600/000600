@@ -26,7 +26,7 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
   * *Liar's Poker*, *Flash Boys*, and *The Big Short* by **Michael Lewis**
   * *Astrophysics for People in a Hurry* and *Death by Black Hole* by **Neil DeGrasse Tyson**
   * The *Lord of the Rings* trilogy and *The Hobbit* by **J.R.R Tolkien**
-  * *What If?* by **Randall Munroe** (I am also a big fan of XKCD)
+  * *What If?* and *How To* by **Randall Munroe** (I am also a big fan of XKCD)
   * The *Maus* duology by **Art Spiegelman**
   * *A Brief History of Time* by **Stephen Hawking** 
   * *War: How Conflict Shaped Us* by **Margaret MacMillan**
