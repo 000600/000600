@@ -54,7 +54,7 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
 - [![Scikit-Learn Badge](https://img.shields.io/badge/Scikit--Learn-44H710?style=for-the-badge&labelColor=black&color=FFAA62&logo=scikit-learn&logoColor=FFAA62)](https://xkcd.com/2265/)
 
 ## Github Statistics
-<p align="center">
+<p align="left">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=000600&show_icons=true&count_private=true&theme=github_dark">
 </p>
 
