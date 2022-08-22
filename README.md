@@ -56,8 +56,8 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
 - [![Keras Badge](https://img.shields.io/badge/Keras-44H710?style=for-the-badge&labelColor=black&color=ff0000&logo=keras&logoColor=ff0000)](https://xkcd.com/2650/)
 
 ## Github Statistics
-<p align="left">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=000600&show_icons=true&count_private=true&theme=github_dark">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=000600&stroke=880808&background=000000&ring=880808&fire=880808&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff">
-    <img height="200px" src="https://activity-graph.herokuapp.com/graph?username=000600&bg_color=000000&color=ffffff&line=0D8E00&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=000600&show_icons=true&count_private=true&theme=github_dark">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=000600&stroke=880808&background=000000&ring=880808&fire=880808&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff">
+    <img src="https://activity-graph.herokuapp.com/graph?username=000600&bg_color=000000&color=ffffff&line=0D8E00&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits">
 </p?
