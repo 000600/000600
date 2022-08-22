@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and (obviously) programming. I am also very interested in math, physics, astronomy, finance, business, economics, sociology, and science as a whole (my team won fourth place in our category at Regeneron ISEF 2022). I also really enjoy extracurriculars such as debate, soccer, basketball, and pretty much all sports! I am entirely self taught, with a particular interest in open source software, artificial intelligence, and machine learning.
+I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and (obviously) programming. I am also very interested in math, physics, astronomy, finance, business, economics, sociology, and science as a whole (my team won fourth place in our category at Regeneron ISEF 2022). I also really enjoy extracurriculars such as debate, soccer, basketball, and pretty much all sports! I am entirely self taught, with a particular interest in open source backend software, artificial intelligence, and machine learning.
 
 ## About Me
 - 🔭 I’m currently working on:
