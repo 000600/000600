@@ -54,12 +54,10 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
 - [![Gym Badge](https://img.shields.io/badge/OpenAI_Gym-204T50?style=for-the-badge&labelColor=black&color=11AED1&logo=openaigym&logoColor=11AED1)](https://xkcd.com/1002/)
 - [![Scikit-Learn Badge](https://img.shields.io/badge/Scikit--Learn-44H710?style=for-the-badge&labelColor=black&color=FFAA62&logo=scikit-learn&logoColor=FFAA62)](https://xkcd.com/2265/)
 - [![Keras Badge](https://img.shields.io/badge/Keras-44H710?style=for-the-badge&labelColor=black&color=ff0000&logo=keras&logoColor=ff0000)](https://xkcd.com/2650/)
-<!--
-[![XGBoost Badge](https://img.shields.io/badge/XGBoost-44H710?style=for-the-badge&labelColor=black&color=FFAA62&logo=XGBoost&logoColor=FFAA62)](https://xkcd.com/2265/)
--->
 
 ## Github Statistics
 <p align="left">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=000600&show_icons=true&count_private=true&theme=github_dark">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=000600&show_icons=true&theme=github_dark>
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=000600&stroke=880808&background=000000&ring=880808&fire=880808&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff">
+    <img height="200px" src="https://activity-graph.herokuapp.com/graph?username=000600&bg_color=000000&color=ffffff&line=0D8E00&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits">
 </p?
