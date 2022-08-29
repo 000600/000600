@@ -35,7 +35,7 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
   * *Animal Farm* and *1984* by **George Orwell**
   * *Me Against My Brother* by **Scott Peterson**
   * *Surely You're Joking, Mr. Feynman* by **Richard Feynman**
-  * *Caste* by **Isabel Wilkerson*(
+  * *Caste* by **Isabel Wilkerson**
   * Many more!
   
 
