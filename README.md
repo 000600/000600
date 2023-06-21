@@ -59,7 +59,7 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
 
 ## Github Statistics
 <p align="center">
-    <img width="300px" height="300px" src="https://github-readme-stats.vercel.app/api?username=000600&show_icons=true&count_private=true&bg_color=000000&text_color=ffffff">
+    <img width="350px" height="300px" src="https://github-readme-stats.vercel.app/api?username=000600&show_icons=true&count_private=true&bg_color=000000&text_color=ffffff">
     <img width="400px" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=000600&stroke=880808&background=000000&ring=880808&fire=880808&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff">
     <img src="https://activity-graph.herokuapp.com/graph?username=000600&bg_color=000000&color=ffffff&line=0D8E00&point=None&area_color=000000&area=true&custom_title=GitHub%20Commits">
 </p?
