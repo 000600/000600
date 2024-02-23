@@ -21,7 +21,7 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun facts:
   * I really enjoy skiing
-  * Bugs Bunny is my favorite cartoon character (hence my profile photo)
+  * Bugs Bunny is my favorite cartoon character
   * Argentina is my favorite national soccer team (I am a huge Messi fan)
 - 📚 My favorite books (in no particular order) include:
   * *Liar's Poker*, *Flash Boys*, and *The Big Short* by **Michael Lewis**
