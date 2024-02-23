@@ -29,7 +29,6 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
   * The *Lord of the Rings* trilogy and *The Hobbit* by **J.R.R Tolkien**
   * *What If?* and *How To* by **Randall Munroe** (I am also a big fan of XKCD)
   * The *Maus* duology by **Art Spiegelman**
-  * *A Brief History of Time* by **Stephen Hawking** 
   * *War: How Conflict Shaped Us* by **Margaret MacMillan**
   * *Born a Crime: Stories from a South African Childhood* by **Trevor Noah**
   * *How Not to Be Wrong: The Power of Mathematical Thinking* by **Jordan Ellenberg**
