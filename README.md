@@ -54,9 +54,3 @@ I'm Aiden, a student developer who enjoys reading, playing chess, thinking, and 
 - [![Gym Badge](https://img.shields.io/badge/OpenAI_Gym-204T50?style=for-the-badge&labelColor=black&color=11AED1&logo=openaigym&logoColor=11AED1)](https://xkcd.com/1002/)
 - [![Scikit-Learn Badge](https://img.shields.io/badge/Scikit--Learn-44H710?style=for-the-badge&labelColor=black&color=FFAA62&logo=scikit-learn&logoColor=FFAA62)](https://xkcd.com/2265/)
 - [![Keras Badge](https://img.shields.io/badge/Keras-44H710?style=for-the-badge&labelColor=black&color=ff0000&logo=keras&logoColor=ff0000)](https://xkcd.com/2650/)
-
-## Github Statistics
-<p align="center">
-    <img width="380px" height="300px" src="https://github-readme-stats.vercel.app/api?username=000600&show_icons=true&count_private=true&bg_color=000000&text_color=ffffff">
-    <img width="400px" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=000600&stroke=880808&background=000000&ring=880808&fire=880808&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff">
-</p?
