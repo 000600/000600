@@ -1,1 +1,1 @@
-I am a student developer interested in machine learning, particularly its applications to healthcare and finance.
+I am a student developer interested in machine learning, particularly its applications to healthcare and finance. Most of my currrent repositories are older since my current work is mostly research and therefore not yet open-source.
